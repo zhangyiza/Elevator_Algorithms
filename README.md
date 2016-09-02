@@ -1,7 +1,7 @@
 # Elevator_Algorithms
 Simulate seven elevator algorithms with minimized waiting time strategy and different stop strategies.
-## Project Goals
-The goal is to improve the algorithm of the two elevators of a building in Tsinghua university by minimizing the waiting time of the users.
+## Project Goal
+The goal is to improve the algorithm of the 2-elevator system of a building in Tsinghua university by minimizing the waiting time of the users.
 ## Method
 - Data is collected during the noon rush hours to estimate arrival distribution, starting state probability vector and transition probability matrix.
 - Data quality is checked and sample independence is tested.
